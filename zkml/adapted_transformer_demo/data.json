@@ -1,0 +1,404 @@
+[
+    {
+        "context": "MPAC's updated value of your property is $4,500,000. Account information: Roll Number 18 96 821 374 60123 0001 AboutMyProperty™ Access Key XY789 2BDE1 7G4H9. Your property's location and description 123 OAK STREET PLAN 78X9101 PT 8, Municipality OAKVILLE CITY, support English-Public.",
+        "question": "What is the value of the property?",
+        "answers": {
+            "text": ["$4,500,000"],
+            "answer_start": [41]
+        }
+        
+    },
+    {
+        "context": "Your property's assessed value as of January 1, 2016 is: $675,000. PROPERTY OVERVIEW: Roll number: 87 65432 123 98765 4321. Location 456 MAPLE AVE and description: LOT 6 PT RP 2T6622 PART 12, Municipality ANYTOWN. Tax class: Residential Taxable. School support: English-Public.",
+        "question": "What is the value of the property?",
+        "answers": {
+            "text": ["$675,000"],
+            "answer_start": [57]
+        }
+        
+    },
+    {
+        "context": "(MPAC's 2016 assessed value of your property is $820,000. Account information: Roll Number 11 22 333 44 55555 6666 AboutMyProperty™ Access Key MNO1 PQR2 STU3. Your property's location and description 789 WILLOW LANE PLAN 123Y567 PT 4 LOT 22, Municipality SPRINGFIELD CITY. School support English-Public.",
+        "question": "What is the value of the property?",
+        "answers": {
+            "text": ["$820,000"],
+            "answer_start": [48]
+            }
+    },
+    {
+        "context": "2022 PROPERTY ASSESSMENT NOTICE. Property Valuation Services Corporation Assessment Account Number (AAN): PIN Access Number’: January 15, 2022. Property Details SMITH, JOHN. 456 CEDAR AVENUE, GREENWOOD ESTATES. Dwelling Unit(s): 1. Municipality: GREENWOOD ESTATES. Dear Property Owner, This is your official Property Assessment Notice for the 2022 municipal tax year. Your 2022 Assessed Value is determined in accordance with the Assessment Act using established mass appraisal methods and quality standards. The Taxable Assessed Value is $310,000.",
+        "question": "What is the value of the property?",
+        "answers": {
+            "text": ["$310,000"],
+            "answer_start": [539]
+        }
+    },
+    {
+        "context": "MPAC's updated value of your property is $1,200,000. Account information: Roll Number 31 45 678 901 23456 7890. AboutMyProperty™ Access Key ZA123 BC456 DE789. Your property's location and description 789 PINE STREET PLAN 567X890 PT 4 LOT 22, Municipality PINEVILLE. Support language: English-Public.",
+        "question": "What is the value of the property?",
+        "answers": {
+            "text": ["$1,200,000"],
+            "answer_start": [41]
+        }
+    },
+    {
+        "context": "Your property's assessed value as of January 1, 2016 is: $550,000. PROPERTY OVERVIEW: Roll number: 11 22 333 44 55555 6666. Location 123 FOREST ROAD and description: LOT 10 PT RP 3U9999 PART 1, Municipality GREENWOOD. Tax class: Residential Taxable. School support: English-Public.",
+        "question": "What is the value of the property?",
+        "answers": {
+            "text": ["$550,000"],
+            "answer_start": [57]
+        }
+    },
+    {
+        "context": "(MPAC's 2016 assessed value of your property is $725,000. Account information: Roll Number 33 44 555 66 77777 8888. AboutMyProperty™ Access Key LMN2 OPQ3 RST4. Your property's location and description 456 OAKWOOD AVENUE PLAN 456A789 PT 5 LOT 18, Municipality OAKDALE. School support English-Public.",
+        "question": "What is the value of the property?",
+        "answers": {
+            "text": ["$725,000"],
+            "answer_start": [48]
+        }
+    },
+    {
+        "context": "2022 PROPERTY ASSESSMENT NOTICE. Property Valuation Services Corporation Assessment Account Number (AAN): PIN Access Number’: January 15, 2022. Property Details SMITH, JANE. 123 ELM STREET, PINETOWN HEIGHTS. Dwelling Unit(s): 1. Municipality: PINETOWN HEIGHTS. Dear Property Owner, This is your official Property Assessment Notice for the 2022 municipal tax year. Your 2022 Assessed Value is determined in accordance with the Assessment Act using established mass appraisal methods and quality standards. The Taxable Assessed Value is $425,000.",
+        "question": "What is the value of the property?",
+        "answers": {
+            "text": ["$425,000"],
+            "answer_start": [535]
+        }
+    },
+    {
+        "context": "MPAC's updated value of your property is $1,350,000. Account information: Roll Number 55 66 777 88 99999 0000. AboutMyProperty™ Access Key UVW5 XYZ6 ABC7. Your property's location and description 789 CYPRESS ROAD PLAN 123B456 PT 3 LOT 9, Municipality CYPRESSVILLE. Support language: English-Public.",
+        "question": "What is the value of the property?",
+        "answers": {
+            "text": ["$1,350,000"],
+            "answer_start": [41]
+        }
+    },
+    {
+        "context": "Your property's assessed value as of January 1, 2016 is: $600,000. PROPERTY OVERVIEW: Roll number: 12 34 567 89 01234 5678. Location 456 OAK STREET and description: LOT 5 PT RP 4V1234 PART 20, Municipality OAKDALE. Tax class: Residential Taxable. School support: English-Public.",
+        "question": "What is the value of the property?",
+        "answers": {
+            "text": ["$600,000"],
+            "answer_start": [57]
+        }
+    },
+    {
+        "context": "MPAC's updated value of your property is $2,250,000. Account information: Roll Number 33 22 456 789 01234 5678 AboutMyProperty™ Access Key UVW1 XYZ2 ABC3. Your property's location and description 456 SUNNYDALE AVE PLAN 789Z123 PT 1 LOT 15, Municipality SUNNYVILLE CITY, support English-Public.",
+        "question": "What is the value of the property?",
+        "answers": {
+            "text": ["$2,250,000"],
+            "answer_start": [41]
+        }
+    },
+    {
+        "context": "Your property's assessed value as of January 1, 2016 is: $900,000. PROPERTY OVERVIEW: Roll number: 21 45 678 90 12345 6789. Location 123 RIVERVIEW ROAD and description: LOT 3 PT RP 5T6789 PART 7, Municipality RIVERVIEW. Tax class: Residential Taxable. School support: English-Public.",
+        "question": "What is the value of the property?",
+        "answers": {
+            "text": ["$900,000"],
+            "answer_start": [57]
+        }
+    },
+    {
+        "context": "(MPAC's 2016 assessed value of your property is $1,750,000. Account information: Roll Number 11 22 333 44 55555 6666 AboutMyProperty™ Access Key MNO1 PQR2 STU3. Your property's location and description 789 LAKESIDE DR PLAN 456A789 PT 3 LOT 12, Municipality LAKEVIEW CITY. School support English-Public.",
+        "question": "What is the value of the property?",
+        "answers": {
+            "text": ["$1,750,000"],
+            "answer_start": [48]
+        }
+    },
+    {
+        "context": "2022 PROPERTY ASSESSMENT NOTICE. Property Valuation Services Corporation Assessment Account Number (AAN): PIN Access Number’: January 15, 2022. Property Details SMITH, JAMES. 123 HILLTOP LANE, HILLCREST HEIGHTS. Dwelling Unit(s): 1. Municipality: HILLCREST HEIGHTS. Dear Property Owner, This is your official Property Assessment Notice for the 2022 municipal tax year. Your 2022 Assessed Value is determined in accordance with the Assessment Act using established mass appraisal methods and quality standards. The Taxable Assessed Value is $550,000.",
+        "question": "What is the value of the property?",
+        "answers": {
+            "text": ["$550,000"],
+            "answer_start": [540]
+        }
+    },
+    {
+        "context": "MPAC's updated value of your property is $1,850,000. Account information: Roll Number 25 99 321 654 98765 4321 AboutMyProperty™ Access Key ABC1 XYZ2 DEF3. Your property's location and description 456 HARMONY STREET PLAN 567B890 PT 6 LOT 28, Municipality HARMONYVILLE. Support language: English-Public.",
+        "question": "What is the value of the property?",
+        "answers": {
+            "text": ["$1,850,000"],
+            "answer_start": [41]
+        }
+    },
+    {
+        "context": "Your property's assessed value as of January 1, 2016 is: $720,000. PROPERTY OVERVIEW: Roll number: 15 98 765 43 21098 7654. Location 789 GROVE AVENUE and description: LOT 8 PT RP 4V1234 PART 18, Municipality GROVEVILLE. Tax class: Residential Taxable. School support: English-Public.",
+        "question": "What is the value of the property?",
+        "answers": {
+            "text": ["$720,000"],
+            "answer_start": [57]
+        }
+    },
+    {
+        "context": "(MPAC's 2016 assessed value of your property is $1,200,000. Account information: Roll Number 33 22 456 789 01234 5678 AboutMyProperty™ Access Key LMN2 OPQ3 RST4. Your property's location and description 456 MAPLEWOOD AVE PLAN 789Z123 PT 1 LOT 22, Municipality MAPLEWOOD CITY. School support English-Public.",
+        "question": "What is the value of the property?",
+        "answers": {
+            "text": ["$1,200,000"],
+            "answer_start": [48]
+        }
+    },
+    {
+        "context": "2022 PROPERTY ASSESSMENT NOTICE. Property Valuation Services Corporation Assessment Account Number (AAN): PIN Access Number’: January 15, 2022. Property Details JONES, SARAH. 123 PINENEEDLE STREET, PINEWOOD ESTATES. Dwelling Unit(s): 1. Municipality: PINEWOOD ESTATES. Dear Property Owner, This is your official Property Assessment Notice for the 2022 municipal tax year. Your 2022 Assessed Value is determined in accordance with the Assessment Act using established mass appraisal methods and quality standards. The Taxable Assessed Value is $675,000.",
+        "question": "What is the value of the property?",
+        "answers": {
+            "text": ["$675,000"],
+            "answer_start": [543]
+        }
+    },
+    {
+        "context": "MPAC's updated value of your property is $2,100,000. Account information: Roll Number 38 72 594 836 72145 9987 AboutMyProperty™ Access Key EFG1 HIJ2 KLM3. Your property's location and description 789 SPRINGDALE ROAD PLAN 987A654 PT 7 LOT 32, Municipality SPRINGDALE CITY. Support language: English-Public.",
+        "question": "What is the value of the property?",
+        "answers": {
+            "text": ["$2,100,000"],
+            "answer_start": [41]
+        }
+    },
+    {
+        "context": "Your property's assessed value as of January 1, 2016 is: $890,000. PROPERTY OVERVIEW: Roll number: 28 46 319 72 81234 5678. Location 123 LAKEVIEW DRIVE and description: LOT 7 PT RP 5V4321 PART 16, Municipality LAKEVIEW. Tax class: Residential Taxable. School support: English-Public.",
+        "question": "What is the value of the property?",
+        "answers": {
+            "text": ["$890,000"],
+            "answer_start": [57]
+        }
+    },
+    {
+        "context": "MPAC's updated value of your property is $3,000,000. Account information: Roll Number 21 45 678 901 23456 7890 AboutMyProperty™ Access Key PQR1 STU2 VWX3. Your property's location and description 123 GREENWOOD LANE PLAN 567Y890 PT 1 LOT 25, Municipality GREENWOOD CITY, support English-Public.",
+        "question": "What is the value of the property?",
+        "answers": {
+            "text": ["$3,000,000"],
+            "answer_start": [41]
+        }
+    },
+    {
+        "context": "Your property's assessed value as of January 1, 2016 is: $1,200,000. PROPERTY OVERVIEW: Roll number: 33 72 456 98 76543 2109. Location 456 HILLSIDE AVENUE and description: LOT 10 PT RP 3T7654 PART 9, Municipality HILLSIDE. Tax class: Residential Taxable. School support: English-Public.",
+        "question": "What is the value of the property?",
+        "answers": {
+            "text": ["$1,200,000"],
+            "answer_start": [57]
+        }
+    },
+    {
+        "context": "(MPAC's 2016 assessed value of your property is $2,300,000. Account information: Roll Number 11 22 333 44 55555 6666 AboutMyProperty™ Access Key XYZ1 ABC2 DEF3. Your property's location and description 789 SUNSET ROAD PLAN 456C789 PT 3 LOT 19, Municipality SUNSETVILLE CITY. School support English-Public.",
+        "question": "What is the value of the property?",
+        "answers": {
+            "text": ["$2,300,000"],
+            "answer_start": [48]
+        }
+    },
+    {
+        "context": "2022 PROPERTY ASSESSMENT NOTICE. Property Valuation Services Corporation Assessment Account Number (AAN): PIN Access Number’: January 15, 2022. Property Details WILSON, EMMA. 123 VALLEY VIEW STREET, VALLEYVIEW ESTATES. Dwelling Unit(s): 1. Municipality: VALLEYVIEW ESTATES. Dear Property Owner, This is your official Property Assessment Notice for the 2022 municipal tax year. Your 2022 Assessed Value is determined in accordance with the Assessment Act using established mass appraisal methods and quality standards. The Taxable Assessed Value is $1,000,000.",
+        "question": "What is the value of the property?",
+        "answers": {
+            "text": ["$1,000,000"],
+            "answer_start": [548]
+        }
+    },
+    {
+        "context": "MPAC's updated value of your property is $2,800,000. Account information: Roll Number 45 67 891 012 34567 8901 AboutMyProperty™ Access Key HIJ1 KLM2 NOP3. Your property's location and description 456 RIDGEVIEW ROAD PLAN 123D456 PT 7 LOT 30, Municipality RIDGEVIEW CITY. Support language: English-Public.",
+        "question": "What is the value of the property?",
+        "answers": {
+            "text": ["$2,800,000"],
+            "answer_start": [41]
+        }
+    },
+    {
+        "context": "Your property's assessed value as of January 1, 2016 is: $1,500,000. PROPERTY OVERVIEW: Roll number: 78 90 123 45 67890 1234. Location 789 OAKWOOD AVENUE and description: LOT 5 PT RP 4Y9876 PART 25, Municipality OAKWOOD. Tax class: Residential Taxable. School support: English-Public.",
+        "question": "What is the value of the property?",
+        "answers": {
+            "text": ["$1,500,000"],
+            "answer_start": [57]
+        }
+    },
+    {
+        "context": "(MPAC's 2016 assessed value of your property is $1,600,000. Account information: Roll Number 11 22 333 44 55555 6666 AboutMyProperty™ Access Key PQR1 STU2 VWX3. Your property's location and description 789 LAKEVIEW LANE PLAN 567Y890 PT 4 LOT 16, Municipality LAKEVIEW CITY. School support English-Public.",
+        "question": "What is the value of the property?",
+        "answers": {
+            "text": ["$1,600,000"],
+            "answer_start": [48]
+        }
+    },
+    {
+        "context": "2022 PROPERTY ASSESSMENT NOTICE. Property Valuation Services Corporation Assessment Account Number (AAN): PIN Access Number’: January 15, 2022. Property Details ANDERSON, MARK. 123 RIVERBEND STREET, RIVERBEND HEIGHTS. Dwelling Unit(s): 1. Municipality: RIVERBEND HEIGHTS. Dear Property Owner, This is your official Property Assessment Notice for the 2022 municipal tax year. Your 2022 Assessed Value is determined in accordance with the Assessment Act using established mass appraisal methods and quality standards. The Taxable Assessed Value is $1,800,000.",
+        "question": "What is the value of the property?",
+        "answers": {
+            "text": ["$1,800,000"],
+            "answer_start": [546]
+        }
+    },
+    {
+        "context": "MPAC's updated value of your property is $2,750,000. Account information: Roll Number 38 72 594 836 72145 9987 AboutMyProperty™ Access Key EFG1 HIJ2 KLM3. Your property's location and description 789 PARKSIDE AVENUE PLAN 987C654 PT 8 LOT 35, Municipality PARKSIDE CITY. Support language: English-Public.",
+        "question": "What is the value of the property?",
+        "answers": {
+            "text": ["$2,750,000"],
+            "answer_start": [41]
+        }
+    },
+    {
+        "context": "Your property's assessed value as of January 1, 2016 is: $2,000,000. PROPERTY OVERVIEW: Roll number: 28 46 319 72 81234 5678. Location 123 HILLCREST DRIVE and description: LOT 12 PT RP 5V4321 PART 29, Municipality HILLCREST. Tax class: Residential Taxable. School support: English-Public.",
+        "question": "What is the value of the property?",
+        "answers": {
+            "text": ["$2,000,000"],
+            "answer_start": [57]
+        }
+    },
+    {
+        "context": "MPAC's updated value of your property is $1,350,000. Account information: Roll Number 11 22 333 44 55555 6666 AboutMyProperty™ Access Key GHI1 JKL2 MNO3. Your property's location and description 123 MAPLEWOOD LANE PLAN 789A123 PT 2 LOT 18, Municipality MAPLEWOOD CITY, support English-Public.",
+        "question": "What is the value of the property?",
+        "answers": {
+            "text": ["$1,350,000"],
+            "answer_start": [41]
+        }
+    },
+    {
+        "context": "Your property's assessed value as of January 1, 2016 is: $800,000. PROPERTY OVERVIEW: Roll number: 33 72 456 98 76543 2109. Location 456 HILLCREST AVENUE and description: LOT 5 PT RP 3T7654 PART 12, Municipality HILLCREST. Tax class: Residential Taxable. School support: English-Public.",
+        "question": "What is the value of the property?",
+        "answers": {
+            "text": ["$800,000"],
+            "answer_start": [57]
+        }
+    },
+    {
+        "context": "(MPAC's 2016 assessed value of your property is $2,100,000. Account information: Roll Number 45 67 891 012 34567 8901 AboutMyProperty™ Access Key NOP1 QRS2 TUV3. Your property's location and description 789 OAKVIEW LANE PLAN 567B890 PT 3 LOT 22, Municipality OAKVIEW CITY. School support English-Public.",
+        "question": "What is the value of the property?",
+        "answers": {
+            "text": ["$2,100,000"],
+            "answer_start": [48]
+        }
+    },
+    {
+        "context": "2022 PROPERTY ASSESSMENT NOTICE. Property Valuation Services Corporation Assessment Account Number (AAN): PIN Access Number’: January 15, 2022. Property Details SMITH, EMILY. 123 PINETREE STREET, PINETREE ESTATES. Dwelling Unit(s): 1. Municipality: PINETREE ESTATES. Dear Property Owner, This is your official Property Assessment Notice for the 2022 municipal tax year. Your 2022 Assessed Value is determined in accordance with the Assessment Act using established mass appraisal methods and quality standards. The Taxable Assessed Value is $950,000.",
+        "question": "What is the value of the property?",
+        "answers": {
+            "text": ["$950,000"],
+            "answer_start": [541]
+        }
+    },
+    {
+        "context": "MPAC's updated value of your property is $2,650,000. Account information: Roll Number 38 72 594 836 72145 9987 AboutMyProperty™ Access Key WXY1 ZAB2 CDE3. Your property's location and description 123 HIGHLAND AVENUE PLAN 456H789 PT 4 LOT 29, Municipality HIGHLAND CITY. Support language: English-Public.",
+        "question": "What is the value of the property?",
+        "answers": {
+            "text": ["$2,650,000"],
+            "answer_start": [41]
+        }
+    },
+    {
+        "context": "Your property's assessed value as of January 1, 2016 is: $1,100,000. PROPERTY OVERVIEW: Roll number: 78 90 123 45 67890 1234. Location 123 HILLCREST AVENUE and description: LOT 8 PT RP 4Y9876 PART 14, Municipality HILLCREST. Tax class: Residential Taxable. School support: English-Public.",
+        "question": "What is the value of the property?",
+        "answers": {
+            "text": ["$1,100,000"],
+            "answer_start": [57]
+        }
+    },
+    {
+        "context": "(MPAC's 2016 assessed value of your property is $1,450,000. Account information: Roll Number 11 22 333 44 55555 6666 AboutMyProperty™ Access Key UVW1 XYZ2 ABC3. Your property's location and description 123 PARKSIDE LANE PLAN 567A890 PT 2 LOT 15, Municipality PARKSIDE CITY. School support English-Public.",
+        "question": "What is the value of the property?",
+        "answers": {
+            "text": ["$1,450,000"],
+            "answer_start": [48]
+        }
+    },
+    {
+        "context": "2022 PROPERTY ASSESSMENT NOTICE. Property Valuation Services Corporation Assessment Account Number (AAN): PIN Access Number’: January 15, 2022. Property Details JOHNSON, WILLIAM. 123 RIVERBANK STREET, RIVERBANK HEIGHTS. Dwelling Unit(s): 1. Municipality: RIVERBANK HEIGHTS. Dear Property Owner, This is your official Property Assessment Notice for the 2022 municipal tax year. Your 2022 Assessed Value is determined in accordance with the Assessment Act using established mass appraisal methods and quality standards. The Taxable Assessed Value is $1,300,000.",
+        "question": "What is the value of the property?",
+        "answers": {
+            "text": ["$1,300,000"],
+            "answer_start": [548]
+        }
+    },
+    {
+        "context": "MPAC's updated value of your property is $2,450,000. Account information: Roll Number 45 67 891 012 34567 8901 AboutMyProperty™ Access Key DEF1 GHI2 JKL3. Your property's location and description 123 RIVERSIDE AVENUE PLAN 456R789 PT 5 LOT 28, Municipality RIVERSIDE CITY. Support language: English-Public.",
+        "question": "What is the value of the property?",
+        "answers": {
+            "text": ["$2,450,000"],
+            "answer_start": [41]
+        }
+    },
+    {
+        "context": "Your property's assessed value as of January 1, 2016 is: $1,750,000. PROPERTY OVERVIEW: Roll number: 28 46 319 72 81234 5678. Location 123 MAPLEVIEW DRIVE and description: LOT 6 PT RP 5V4321 PART 17, Municipality MAPLEVIEW. Tax class: Residential Taxable. School support: English-Public.",
+        "question": "What is the value of the property?",
+        "answers": {
+            "text": ["$1,750,000"],
+            "answer_start": [57]
+        }
+    },
+    {
+        "context": "MPAC's updated value of your property is $1,900,000. Account information: Roll Number 21 45 678 901 23456 7890 AboutMyProperty™ Access Key STU1 VWX2 YZ3. Your property's location and description 123 HILLCREST LANE PLAN 567D890 PT 3 LOT 23, Municipality HILLCREST CITY, support English-Public.",
+        "question": "What is the value of the property?",
+        "answers": {
+            "text": ["$1,900,000"],
+            "answer_start": [41]
+        }
+    },
+    {
+        "context": "Your property's assessed value as of January 1, 2016 is: $1,300,000. PROPERTY OVERVIEW: Roll number: 33 72 456 98 76543 2109. Location 456 MAPLEVIEW AVENUE and description: LOT 6 PT RP 3T7654 PART 15, Municipality MAPLEVIEW. Tax class: Residential Taxable. School support: English-Public.",
+        "question": "What is the value of the property?",
+        "answers": {
+            "text": ["$1,300,000"],
+            "answer_start": [57]
+        }
+    },
+    {
+        "context": "(MPAC's 2016 assessed value of your property is $2,450,000. Account information: Roll Number 45 67 891 012 34567 8901 AboutMyProperty™ Access Key ABC1 DEF2 GHI3. Your property's location and description 123 RIVERSIDE LANE PLAN 456C789 PT 4 LOT 27, Municipality RIVERSIDE CITY. School support English-Public.",
+        "question": "What is the value of the property?",
+        "answers": {
+            "text": ["$2,450,000"],
+            "answer_start": [48]
+        }
+    },
+    {
+        "context": "2022 PROPERTY ASSESSMENT NOTICE. Property Valuation Services Corporation Assessment Account Number (AAN): PIN Access Number’: January 15, 2022. Property Details BROWN, SARAH. 123 LAKEVIEW STREET, LAKEVIEW ESTATES. Dwelling Unit(s): 1. Municipality: LAKEVIEW ESTATES. Dear Property Owner, This is your official Property Assessment Notice for the 2022 municipal tax year. Your 2022 Assessed Value is determined in accordance with the Assessment Act using established mass appraisal methods and quality standards. The Taxable Assessed Value is $1,650,000.",
+        "question": "What is the value of the property?",
+        "answers": {
+            "text": ["$1,650,000"],
+            "answer_start": [541]
+        }
+    },
+    {
+        "context": "MPAC's updated value of your property is $2,350,000. Account information: Roll Number 38 72 594 836 72145 9987 AboutMyProperty™ Access Key JKL1 MNO2 PQR3. Your property's location and description 123 SUNNYDALE AVENUE PLAN 987D654 PT 5 LOT 30, Municipality SUNNYDALE CITY. Support language: English-Public.",
+        "question": "What is the value of the property?",
+        "answers": {
+            "text": ["$2,350,000"],
+            "answer_start": [41]
+        }
+    },
+    {
+        "context": "Your property's assessed value as of January 1, 2016 is: $1,600,000. PROPERTY OVERVIEW: Roll number: 78 90 123 45 67890 1234. Location 123 RIVERBANK DRIVE and description: LOT 7 PT RP 4Y9876 PART 20, Municipality RIVERBANK. Tax class: Residential Taxable. School support: English-Public.",
+        "question": "What is the value of the property?",
+        "answers": {
+            "text": ["$1,600,000"],
+            "answer_start": [57]
+        }
+    },
+    {
+        "context": "(MPAC's 2016 assessed value of your property is $1,750,000. Account information: Roll Number 11 22 333 44 55555 6666 AboutMyProperty™ Access Key VWX1 YZ2 ABC3. Your property's location and description 123 PARKVIEW LANE PLAN 567C890 PT 2 LOT 21, Municipality PARKVIEW CITY. School support English-Public.",
+        "question": "What is the value of the property?",
+        "answers": {
+            "text": ["$1,750,000"],
+            "answer_start": [48]
+        }
+    },
+    {
+        "context": "2022 PROPERTY ASSESSMENT NOTICE. Property Valuation Services Corporation Assessment Account Number (AAN): PIN Access Number’: January 15, 2022. Property Details JOHNSON, EMMA. 123 HIGHLAND STREET, HIGHLAND ESTATES. Dwelling Unit(s): 1. Municipality: HIGHLAND ESTATES. Dear Property Owner, This is your official Property Assessment Notice for the 2022 municipal tax year. Your 2022 Assessed Value is determined in accordance with the Assessment Act using established mass appraisal methods and quality standards. The Taxable Assessed Value is $1,450,000.",
+        "question": "What is the value of the property?",
+        "answers": {
+            "text": ["$1,450,000"],
+            "answer_start": [542]
+        }
+    },
+    {
+        "context": "MPAC's updated value of your property is $1,950,000. Account information: Roll Number 45 67 891 012 34567 8901 AboutMyProperty™ Access Key DEF1 GHI2 JKL3. Your property's location and description 123 LAKEVIEW LANE PLAN 456L789 PT 6 LOT 25, Municipality LAKEVIEW CITY. Support language: English-Public.",
+        "question": "What is the value of the property?",
+        "answers": {
+            "text": ["$1,950,000"],
+            "answer_start": [41]
+        }
+    },
+    {
+        "context": "Your property's assessed value as of January 1, 2016 is: $2,100,000. PROPERTY OVERVIEW: Roll number: 28 46 319 72 81234 5678. Location 123 HILLTOP DRIVE and description: LOT 8 PT RP 5V4321 PART 28, Municipality HILLTOP. Tax class: Residential Taxable. School support: English-Public.",
+        "question": "What is the value of the property?",
+        "answers": {
+            "text": ["$2,100,000"],
+            "answer_start": [57]
+        }
+    }
+]

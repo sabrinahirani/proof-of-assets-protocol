@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Proof of Assets Protocol</title>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap">
+    <link rel="stylesheet" type="text/css" href="../styles/upload.css">
+</head>
+<body>
+  <div class="container">
+    <div class="card">
+      <h3>Upload Files</h3>
+        <div class="dropbox">
+          <header><h4>Select File</h4></header>
+          <p>Upload Government Property Valuation</p>
+          <input type="file" accept="image/*" hidden style="display:none;">
+          <button>Choose File</button>
+        </div>
+        <div class="loader" >
+          <div></div>
+          <div></div>
+          <div></div>
+        </div>
+      </div>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/tesseract.js@5/dist/tesseract.min.js" type="application/javascript"></script>
+    <script src="https://cdn.jsdelivr.net/npm/web3@1.5.2/dist/web3.min.js" type="application/javascript"></script>
+    <script src="https://cdn.ethers.io/lib/ethers-5.2.umd.min.js" type="application/javascript"></script>
+    <script src="../scripts/main.js"></script>
+</body>
+</html>

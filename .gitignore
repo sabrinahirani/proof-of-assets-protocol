@@ -1,0 +1,13 @@
+.env
+
+*.onnx
+*.compiled
+
+*.srs
+*.pf
+*.pk
+*.vk
+
+contracts/node_modules
+contracts/artifacts
+contracts/cache
