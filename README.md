@@ -2,6 +2,8 @@
 
 *Building bridges between traditional finance and DeFi*
 
+*finalist and winner of the Web 3.0 category of The DaVinci Competition 2023*
+
 ## Overview
 
 Proof of Assets Protocol is an inventive solution, aspiring to bridge the gap between the traditional financial system and the decentralized financial (DeFi) system. The absence of a method for representing real-world assets in DeFi has stifled usability and adoption. Our protocol addresses this shortcoming by enabling the creation of Proof-of-Asset (PoA) tokens, a unique non-fungible token that validates asset ownership without disclosing sensitive information. This document elaborates on key features, use cases, the business model,  the minting process, the technology stack, and the way forward for Proof of Assets Protocol.
