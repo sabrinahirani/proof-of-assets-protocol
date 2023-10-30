@@ -2,7 +2,7 @@
 
 *Building bridges between traditional finance and DeFi*
 
-**Finalist and winner of the Web 3.0 category of The DaVinci Competition 2023*
+**Finalist and winner of the web 3.0 category of The DaVinci Competition 2023*
 
 ## Overview
 
