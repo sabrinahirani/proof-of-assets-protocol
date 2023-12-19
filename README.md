@@ -2,7 +2,7 @@
 
 *Building bridges between traditional finance and DeFi*
 
-**Finalist and winner of the web 3.0 category of The DaVinci Competition 2023*
+**finalist and winner of the web 3.0 category of [The DaVinci Competition 2023](https://davincicompetition.ca/)*
 
 ## Overview
 
@@ -14,7 +14,7 @@ At present, there is no good way of representing traditional assets, such as rea
 
 ## Key Features
 
-Proof of Assets Protocol allows users to mint Proof of Asset (PoA) tokens. Proof of Asset (PoA) is a non-fungible token (NFT) that serves as proof that you hold an asset without revealing information about the asset. Each token contains (1) a unique identifier, (2) a timestamp of token generation, (3) a dollar-value amount associated with the asset. Additionally, Proof of Asset PoA tokens are [soulbound](https://vitalik.ca/general/2022/01/26/soulbound.html), meaning that they cannot be transferred.
+Proof of Assets Protocol allows users to mint Proof of Asset (PoA) tokens. Proof of Asset (PoA) is a non-fungible token (NFT) that serves as proof that you hold an asset without revealing information about the asset. Each token contains (1) a unique identifier, (2) a timestamp of token generation, (3) a dollar-value amount associated with the asset. Additionally, Proof of Asset PoA tokens are soulbound, meaning that they cannot be transferred.
 
 ## Business Model
 
@@ -28,11 +28,11 @@ Other potential revenue streams include:
 
 ## Use Cases
 
-Proof of Asset PoA tokens have a wide range of use cases, including:
+Proof of Asset PoA tokens have a wide range of use cases including:
 
-**Collateralized Loans:** The simplest use case for Proof of Asset (PoA) tokens is for collateralized loans in decentralized lending applications. Users may be hesitant to hold cryptocurrency as collateral given volatility, privacy, and security concerns. With Proof of Assets Protocol, users can overcome these challenges, participating in the DeFi ecosystem using traditional assets as collateral without exposing sensitive information.
+**Collateralized Loans:** The simplest use case for Proof of Asset (PoA) tokens is as a type of 'credit score' for collateralized loans in decentralized lending applications. Users may be hesitant to hold cryptocurrency as collateral given volatility, privacy, and security concerns. With Proof of Assets Protocol, users can overcome these challenges, participating in the DeFi ecosystem using traditional assets as collateral without exposing sensitive information.
 
-**Proof of Solvency:** Centralized exchanges, like the former FTX, can use Proof of Asset (PoA) tokens to generate [Proof of Solvency](https://vitalik.ca/general/2022/11/19/proof_of_solvency.html), enhancing user trust and confidence.
+**Proof of Solvency:** Centralized exchanges can use Proof of Asset (PoA) tokens to generate [Proof of Solvency](https://vitalik.ca/general/2022/11/19/proof_of_solvency.html).
 
 **Funding/Crowdsourcing:** Proof of Asset (PoA) tokens can be used to assure donors/investors/etc. that their funds are being directed towards their intended use.
 
