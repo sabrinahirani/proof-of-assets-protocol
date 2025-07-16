@@ -1,10 +1,9 @@
 # Proof of Assets Protocol
 
-*Building bridges between traditional finance and DeFi*
+*Building bridges between traditional finance and DeFi.*  
+*Finalist and Winner of the Web 3.0 category of [The DaVinci Competition 2023](https://davincicompetition.ca/)* 🏆 
 
-**finalist and winner of the web 3.0 category of [The DaVinci Competition 2023](https://davincicompetition.ca/)*
-
-**Demo:** https://www.canva.com/design/DAFx7c-P5oo/vmlZCC8XSAsZB3K3QIKd6Q/edit?utm_content=DAFx7c-P5oo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+[▶️ See the pitch on Canva](https://www.canva.com/design/DAFx7c-P5oo/vmlZCC8XSAsZB3K3QIKd6Q/edit?utm_content=DAFx7c-P5oo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## Overview
 
